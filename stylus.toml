@@ -1,0 +1,6 @@
+[stylus]
+contracts = ["src/lib.rs"]  # Ruta al contrato
+network = "arb-sepolia"     # Establece la red en Arbitrum Sepolia
+gas_coin = "0x2::sui::SUI"  # Específica la moneda de gas en Sui, ajusta si es necesario
+
+compiler = "rustc"

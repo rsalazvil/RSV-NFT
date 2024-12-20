@@ -1,0 +1,11 @@
+[package]
+name = "rsv-nft"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stylus-sdk = "0.1.0"
+ # Usamos la versión correcta de Stylus
+
+[lib]
+path = "src/lib.rs"

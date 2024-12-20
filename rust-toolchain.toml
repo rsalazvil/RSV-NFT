@@ -1,0 +1,2 @@
+[toolchain]
+channel = "1.83.0"  # O especifica la versión que necesitas
